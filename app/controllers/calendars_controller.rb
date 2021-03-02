@@ -44,14 +44,3 @@ class CalendarsController < ApplicationController
 
   end
 end
-
-num = 1
-
-4.times do |x|
- puts num + x
-end
-
- num = 1
- = 2
- = 3
- = 4
